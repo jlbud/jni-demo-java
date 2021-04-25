@@ -26,7 +26,7 @@ java com.jni.hello.HelloJNI
 这个命令就会运行HelloJNI类中的main方法了
 
 ### 开源
-
+https://github.com/klbud/jni-demo-java
 
 
 
